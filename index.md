@@ -4,4 +4,6 @@ layout: default
 
 **Site under construction**
 
-[Link to another page](./another-page.html).
+[Bio](./another-page.html)
+[Publications](./another-page.html)
+[Codes](./another-page.html)
