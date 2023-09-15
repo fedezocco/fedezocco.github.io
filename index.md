@@ -2,9 +2,9 @@
 layout: default
 ---
 
-# Implementing Circularity with Plants and Computers
-
 ---
+
+# Implementing Circularity with Plants and Computers
 
 ## [Bio](./another-page.html)   [Publications](./another-page.html)   [Codes](./another-page.html)
 
