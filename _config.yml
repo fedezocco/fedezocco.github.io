@@ -1,2 +1,4 @@
 theme: jekyll-theme-minimal
 title: Federico Zocco, PhD  
+github:
+  is_project_page: false
