@@ -16,5 +16,8 @@ Material Flow Design results from the intersection of the following five main re
 
 ![ForPersonalHomepage](https://github.com/fedezocco/fedezocco.github.io/assets/62107909/5ffc4d12-0d07-471e-a1d5-c5efcaaa12af)
 
-## Related Papers
+</br>
+</br>
+
+### Related Papers
 
