@@ -10,4 +10,5 @@ layout: default
 
  Site under construction
 
-[ForPersonalHomepage.pdf](https://github.com/fedezocco/fedezocco.github.io/files/12653379/ForPersonalHomepage.pdf)
+![ForPersonalHomepage](https://github.com/fedezocco/fedezocco.github.io/assets/62107909/5ffc4d12-0d07-471e-a1d5-c5efcaaa12af)
+
