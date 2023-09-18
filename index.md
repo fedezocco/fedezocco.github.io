@@ -10,7 +10,7 @@ layout: default
 
  (site under construction)
 
-Material Flow Design is the emerging scientific discipline developed here. It emerges from the need of modern society to tackle three problems of global scale: climate change, pollution and the dependence on finite reserves of materials.  
+Material Flow Design is the emerging scientific discipline developed in this page. It emerges from the need of modern society to tackle three problems of global scale: climate change, pollution and the dependence on finite reserves of materials.  
 
 Material Flow Design results from the intersection of the following five main research topics: 
 
