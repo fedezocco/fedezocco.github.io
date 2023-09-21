@@ -15,4 +15,10 @@ layout: default
 * Research student, Research Cluster for Energy, Power and Intelligent Control, Queen's University Belfast, Northern Ireland, UK (March 2016-October 2016)
 * Research student, “E. Piaggio” Research Center, University of Pisa, Italy (March 2013-September 2013)
 
+# Extra-Curricula Experience
+* Volunteer teacher, orphanage "The Potter's Village", Accra, Ghana (November 2017)
+* Occasional ski instructor (2011-2016)
+* Diploma of ski instructor, Pistoia, Italy (2009)
+* Alpine ski athlete (2004-2008) 
+
 [back](./)
