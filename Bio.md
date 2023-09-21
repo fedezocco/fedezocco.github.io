@@ -18,7 +18,7 @@ layout: default
 * Research student, “E. Piaggio” Research Center, University of Pisa, Italy (March 2013-September 2013)
 
 # Extra-Curricular Experience
-* Volunteer teacher, orphanage "The Potter's Village", Accra, Ghana (November 2017)
+* Volunteer teacher, "The Potter's Village" orphanage, Accra, Ghana (November 2017)
 * Occasional ski instructor (2011-2016)
 * Diploma of ski instructor, Pistoia, Italy (2009)
 * Alpine ski athlete (2004-2008) 
