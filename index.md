@@ -8,8 +8,6 @@ layout: default
 
 # Implementing Circularity with Plants and Computers
 
- (site under construction)
-
 _Material_ _Flow_ _Design_ is the emerging scientific discipline developed on this page. It emerges from the need of modern society to tackle three problems of global scale: climate change, pollution, and the dependence on finite reserves of materials.  
 
 _Material_ _Flow_ _Design_ results from the intersection of the following five research topics: 
