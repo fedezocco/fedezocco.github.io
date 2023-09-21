@@ -6,7 +6,7 @@ layout: default
 * PhD in Applied Machine Learning, Queen's University Belfast, 2021
 * MSc in Robotics and Automation Engineering, University of Pisa, 2016
 * BSc in Mechanical Engineering, University of Pisa, 2013
-* Born in Rome, Italy, 1990
+  (Born in Rome, Italy, 1990)
 
 # Research Experience
 * Postdoctoral researcher, Centre for Sustainable Manufacturing and Recycling Technologies, Loughborough University, England, UK (December 2022-Present)
