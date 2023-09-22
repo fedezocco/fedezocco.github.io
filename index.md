@@ -16,8 +16,8 @@ _Material_ _Flow_ _Design_ results from the intersection of the following five r
 
 
 ### RELATED PAPERS
-* **Zocco, F.**, Sopasakis, P., Smyth, B. and Haddad, W.M., 2023. Thermodynamical Material Networks for Modeling, Planning, and Control of Circular Material Flows. International Journal of Sustainable Engineering, 16(1), pp.1-14.
+* **Zocco, F.**, Sopasakis, P., Smyth, B. and Haddad, W.M., 2023. Thermodynamical Material Networks for Modeling, Planning, and Control of Circular Material Flows. International Journal of Sustainable Engineering, 16(1), pp. 1-14.
 * **Zocco, F.** and Rahimifard, S., 2023. Visual Material Characteristics Learning for Circular Healthcare. arXiv preprint arXiv:2309.04763.
 * **Zocco, F.**, Smyth, B. and Sopasakis, P., 2022. Circularity of Thermodynamical Material Networks: Indicators, Examples and Algorithms. arXiv preprint arXiv:2209.15051.
-* **Zocco, F.**, Lin, T.C., Huang, C.I., Wang, H.C., Khyam, M.O. and Van, M., 2023. Towards More Efficient EfficientDets and Real-Time Marine Debris Detection. IEEE Robotics and Automation Letters, 8(4), pp.2134-2141.
-* **Zocco, F.**, McLoone, S. and Smyth, B., 2022. Material Measurement Units for a Circular Economy: Foundations through a Review. Sustainable Production and Consumption, 32, pp.833-850.
+* **Zocco, F.**, Lin, T.C., Huang, C.I., Wang, H.C., Khyam, M.O. and Van, M., 2023. Towards More Efficient EfficientDets and Real-Time Marine Debris Detection. IEEE Robotics and Automation Letters, 8(4), pp. 2134-2141.
+* **Zocco, F.**, McLoone, S. and Smyth, B., 2022. Material Measurement Units for a Circular Economy: Foundations through a Review. Sustainable Production and Consumption, 32, pp. 833-850.
