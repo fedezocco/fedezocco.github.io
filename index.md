@@ -4,7 +4,7 @@ layout: default
 
 ---
 
-### [BRIEF_CV](./Bio.html)   [PUBLICATIONS](./Publications.html)   [CODES](./Codes.html)
+### [BRIEF_CV](./Bio.html)  &emsp [PUBLICATIONS](./Publications.html)   [CODES](./Codes.html)
 
 # Implementing Circularity with Plants and Computers
 
