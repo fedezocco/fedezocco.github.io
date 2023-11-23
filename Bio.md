@@ -21,6 +21,6 @@ layout: default
 * Volunteer teacher, "The Potter's Village" orphanage, Accra, Ghana (November 2017)
 * Occasional ski instructor (2011-2016)
 * Diploma of ski instructor, Pistoia, Italy (2009)
-* Alpine ski athlete ([Results](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=121216&type=result)) (2004-2008) 
+* Alpine ski athlete ([results](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=121216&type=result)) (2004-2008) 
 
 [back](./)
