@@ -11,6 +11,7 @@ layout: default
 _Circular_ _Flow_ _Design_ is the emerging scientific discipline developed on this page. It emerges from the need of modern society to tackle three problems of global scale: climate change, pollution, and the dependence on finite reserves of materials.  
 
 _Circular_ _Flow_ _Design_ results from the intersection of the following 6 research topics: 
+
 ![ForPersonalHomepage](https://github.com/fedezocco/fedezocco.github.io/assets/62107909/42f8ad07-7e93-4be2-98ce-ec5f951f8fa5)
 
 
