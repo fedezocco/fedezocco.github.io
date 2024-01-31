@@ -12,7 +12,8 @@ _Material_ _Flow_ _Design_ is the emerging scientific discipline developed on th
 
 _Material_ _Flow_ _Design_ results from the intersection of the following five research topics: 
 
-![ForPersonalHomepage](https://github.com/fedezocco/fedezocco.github.io/assets/62107909/5ffc4d12-0d07-471e-a1d5-c5efcaaa12af)
+![ForPersonalHomepage](https://github.com/fedezocco/fedezocco.github.io/assets/62107909/2ecbda59-a40a-4a58-9f30-445cef59dcae)
+
 
 
 ### RELATED PAPERS
