@@ -6,7 +6,7 @@ layout: default
 
 ### [BRIEF CV](./Bio.html)  &emsp;&emsp;  [PUBLICATIONS](./Publications.html)  &emsp;&emsp;  [CODES](./Codes.html)  &emsp;&emsp;  [MONOGRAPHS](./Monographs.html)
 
-# Implementing Circularity with&emsp;&emsp;&emsp;Plants and Computers
+# Implementing Circularity with &emsp;&emsp;&emsp;Plants and Computers
 
 _Circular_ _Flow_ _Design_ is the emerging scientific discipline developed on this page. It emerges from the need of modern society to tackle three problems of global scale: climate change, pollution, and the dependence on finite reserves of materials.  
 
