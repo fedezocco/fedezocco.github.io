@@ -16,7 +16,8 @@ _Circular_ _Flow_ _Design_ results from the intersection of the following 6 rese
 
 
 
-
+### RELATED MONOGRAPHS
+* **Zocco, F.** _Thermodynamical_ _material_ _networks_ _for_ _circular_ _economy:_ _Principles_ _and_ _applications_. In preparation.
 
 ### RELATED PAPERS
 * **Zocco, F.**, Sopasakis, P., Smyth, B. and Haddad, W.M., 2023. Thermodynamical Material Networks for Modeling, Planning, and Control of Circular Material Flows. International Journal of Sustainable Engineering, 16(1), pp. 1-14. [[Link](https://www.tandfonline.com/doi/full/10.1080/19397038.2023.2209582)]
