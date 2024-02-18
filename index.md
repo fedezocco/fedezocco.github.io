@@ -14,7 +14,7 @@ _Circular_ _Flow_ _Design_ results from the intersection of the following 6 rese
 
 ![ForPersonalHomepage](https://github.com/fedezocco/fedezocco.github.io/assets/62107909/42f8ad07-7e93-4be2-98ce-ec5f951f8fa5)
 
-
+&nbsp;  
 
 ### RELEVANT MONOGRAPHS
 * **Zocco, F.** _Circular_ _flow_ _design:_ _Principles_ _and_ _applications_. In preparation.
