@@ -12,7 +12,8 @@ layout: default
   (Born in Rome, Italy, 1990)
 
 # Research Experience
-* Postdoctoral researcher, Centre for Sustainable Manufacturing and Recycling Technologies, Loughborough University, England, UK (December 2022-**Present**)
+* Postdoctoral researcher, Centre for Sustainable Manufacturing and Recycling Technologies, Loughborough University, England, UK (December 2022-May 2024)
+* Postdoctoral researcher, Department of Information Engineering and Mathematics, University of Siena, Italy (April 2024)
 * Postdoctoral researcher, Queen's University Belfast, Northern Ireland, UK (December 2021-November 2022)
 * Research student, Research Cluster for Energy, Power and Intelligent Control, Queen's University Belfast, Northern Ireland, UK (March 2016-October 2016)
 * Research student, “E. Piaggio” Research Center, University of Pisa, Italy (March 2013-September 2013)
