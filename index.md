@@ -21,7 +21,7 @@ _Circular_ _Flow_ _Design_ results from the intersection of the following 6 rese
 
 ### RELEVANT PAPERS
 * **Zocco, F.**, Sopasakis, P., Smyth, B. and Haddad, W.M., 2023. Thermodynamical material networks for modeling, planning, and control of circular material flows. International Journal of Sustainable Engineering, 16(1), pp. 1-14. [[Link](https://www.tandfonline.com/doi/full/10.1080/19397038.2023.2209582)]
-* **Zocco, F.**, Lake, D. and Rahimifard, S., 2024. Synchronized object detection for autonomous sorting, mapping, and quantification of medical materials. To be submitted. arXiv preprint arXiv:2405.06821. [[Link](https://arxiv.org/abs/2405.06821)]
+* **Zocco, F.**, Lake, D. and Rahimifard, S., 2024. Synchronized object detection for autonomous sorting, mapping, and quantification of medical materials. Submitted. arXiv preprint arXiv:2405.06821. [[Link](https://arxiv.org/abs/2405.06821)]
 * **Zocco, F.** and Rahimifard, S., 2023. Visual material characteristics learning for circular healthcare. Submitted. arXiv preprint arXiv:2309.04763. [[Link](https://arxiv.org/abs/2309.04763v1)]
 * **Zocco, F.**, Sleath, D. and Rahimifard, S., 2024. Towards a thermodynamical deep-learning-vision-based flexible robotic cell for circular healthcare. Submitted. arXiv preprint arXiv:2402.05551. [[Link](https://arxiv.org/abs/2402.05551)]
 * **Zocco, F.**, Smyth, B. and Sopasakis, P., 2022. Circularity of thermodynamical material networks: Indicators, examples, and algorithms. Submitted. arXiv preprint arXiv:2209.15051. [[Link](https://arxiv.org/abs/2209.15051)]
