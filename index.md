@@ -12,7 +12,7 @@ _Circular_ _Flow_ _Design_ is the emerging scientific subject developed on this 
 
 _Circular_ _Flow_ _Design_ results from the intersection of the following 6 research topics: 
 
-![ForPersonalHomepage](https://github.com/fedezocco/fedezocco.github.io/assets/62107909/ff6ce3b4-bd2a-4dcd-9d97-4a330c5c6078)
+![ForPersonalHomepage](https://github.com/fedezocco/fedezocco.github.io/assets/62107909/8ee51277-109c-4453-831b-eb784e654efe)
 
 &nbsp;  
 
