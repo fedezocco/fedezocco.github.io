@@ -17,7 +17,7 @@ _Circular_ _Intelligence_ _and_ _Automation_ results from the <ins>coherent</ins
 &nbsp;  
 
 ### RELEVANT MONOGRAPHS
-* **Zocco, F.** _Circular_ _Intelligence_ _and_ _Automation_:_ _Principles_ _and_ _applications_. In preparation.
+* **Zocco, F.** _Circular_ _Intelligence_ _and_ _Automation_: _Principles_ _and_ _applications_. In preparation.
 
 ### RELEVANT PAPERS
 * **Zocco, F.**, Sopasakis, P., Smyth, B. and Haddad, W.M., 2023. Thermodynamical material networks for modeling, planning, and control of circular material flows. International Journal of Sustainable Engineering, 16(1), pp. 1-14. [[Link](https://www.tandfonline.com/doi/full/10.1080/19397038.2023.2209582)]
