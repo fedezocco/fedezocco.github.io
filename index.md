@@ -10,7 +10,7 @@ layout: default
 
 _Circular_ _Intelligence_ _and_ _Automation_ is the emerging scientific subject developed on this page. It emerges from the need of modern society to tackle three problems of global scale: climate change, pollution, and the dependence on finite reserves of materials.  
 
-_Circular_ _Intelligence_ _and_ _Automation_ results from the <ins>coherent</ins> intersection of the following 6 research topics: 
+_Circular_ _Intelligence_ _and_ _Automation_ results from a <ins>coherent</ins> intersection of the following 6 research topics: 
 
 ![ForPersonalHomepage](https://github.com/user-attachments/assets/c9212579-6bfd-4312-9177-a4b1d993c0ef)
 
