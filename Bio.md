@@ -12,7 +12,7 @@ layout: default
   (Born in Rome, Italy, 1990)
 
 # Research Experience
-* Postdoctoral researcher based in Loughborough, England, UK (May 2024-present)
+* Postdoctoral researcher based in Loughborough, England, UK (May 2024&ndash;present)
 * Postdoctoral researcher, Department of Information Engineering and Mathematics, University of Siena, Italy (April and July 2024)
 * Postdoctoral researcher, Centre for Sustainable Manufacturing and Recycling Technologies, Loughborough University, England, UK (December 2022-May 2024)
 * Postdoctoral researcher, Queen's University Belfast, Northern Ireland, UK (December 2021-December 2022)
