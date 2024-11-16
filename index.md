@@ -12,7 +12,7 @@ _Circular_ _Intelligence_ is the emerging scientific subject developed on this p
 
 _Circular_ _Intelligence_ results from a <ins>coherent</ins> intersection of the following 6 research topics: 
 
-![ForPersonalHomepage](https://github.com/user-attachments/assets/c9212579-6bfd-4312-9177-a4b1d993c0ef)
+![ForPersonalHomepage](https://github.com/user-attachments/assets/5f34fa3e-8e03-4a12-8294-4e52ec0d11ab)
 
 &nbsp;  
 
