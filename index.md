@@ -17,7 +17,7 @@ _Circular_ _Intelligence_ results from a <ins>coherent</ins> intersection of the
 &nbsp;  
 
 ### RELEVANT MONOGRAPHS
-* **Zocco, F.** _Circular_ _intelligence_: _Principles_ _and_ _applications_. In preparation.
+* **Zocco, F.**  _Material_ _networks_ _for_ _circular_ _intelligence_: _Principles_ _and_ _applications_. In preparation.
 
 ### RELEVANT PAPERS
 * **Zocco, F.**, Haddad, W.M., Corti, A. and Malvezzi, M., 2024. A unification between deep-learning vision, compartmental dynamical thermodynamics, and robotic manipulation for a circular economy. IEEE Access, early access article. [[Link](https://ieeexplore.ieee.org/document/10746487)] 
