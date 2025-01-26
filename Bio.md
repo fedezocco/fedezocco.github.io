@@ -20,9 +20,9 @@ layout: default
 * March 2013&ndash;September 2013 &nbsp; &nbsp; Research student, “E. Piaggio” Research Center, University of Pisa, Italy 
 
 # Extra-Curricular Experience
-* Volunteer teacher, "The Potter's Village" orphanage, Accra, Ghana (November 2017)
-* Occasional ski instructor (2011&ndash;2016)
-* Diploma of ski instructor, Pistoia, Italy (2009)
-* Alpine ski athlete ([results](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=121216&type=result)) (2004&ndash;2008) 
+* November 2017 &nbsp; &nbsp; Volunteer teacher, "The Potter's Village" orphanage, Accra, Ghana 
+* 2011&ndash;2016 &nbsp; &nbsp; Occasional ski instructor 
+* 2009 &nbsp; &nbsp; Diploma of ski instructor, Pistoia, Italy 
+* 2004&ndash;2008 &nbsp; &nbsp; Alpine ski athlete ([results](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=121216&type=result)) (2004&ndash;2008) 
 
 [back](./)
