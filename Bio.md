@@ -5,7 +5,7 @@ layout: default
 ---
 
 # Education
-* December 2021 &nbsp; PhD in Applied Machine Learning, Queen's University Belfast, Northern Ireland, UK 
+* December 2021 &nbsp;&nbsp; PhD in Applied Machine Learning, Queen's University Belfast, Northern Ireland, UK 
 * November 2016   MSc in Robotics and Automation Engineering, University of Pisa, Italy (grade: 110/110)
 * October 2013    BSc in Mechanical Engineering, University of Pisa, Italy 
 
