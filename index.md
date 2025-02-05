@@ -22,6 +22,7 @@ _Circular_ _Intelligence_ results from a <ins>coherent</ins> intersection of the
 ### RELEVANT PAPERS
 * **Zocco, F.**, Haddad, W.M., Corti, A. and Malvezzi, M., 2024. A unification between deep-learning vision, compartmental dynamical thermodynamics, and robotic manipulation for a circular economy. IEEE Access, early access article. [[Link](https://ieeexplore.ieee.org/document/10746487)] 
 * **Zocco, F.**, Sopasakis, P., Smyth, B. and Haddad, W.M., 2023. Thermodynamical material networks for modeling, planning, and control of circular material flows. International Journal of Sustainable Engineering, 16(1), pp. 1-14. [[Link](https://www.tandfonline.com/doi/full/10.1080/19397038.2023.2209582)]
+* **Zocco, F.**, Garcia, J. and Haddad, W.M., 2025. Circular microalgae-based carbon control for net zero. Submitted. arXiv preprint arXiv:2502.02382. [[Link](https://www.arxiv.org/abs/2502.02382)] 
 * **Zocco, F.**, Lake, D.R., McLoone, S. and Rahimifard, S., 2025. Synchronized object detection for autonomous sorting, mapping, and quantification of materials in circular healthcare. Submitted. arXiv preprint arXiv:2405.06821. [[Link](https://arxiv.org/abs/2405.06821)]
 * **Zocco, F.** and Malvezzi, M., 2024. Circular economy design through system dynamics modeling. Submitted. arXiv preprint arXiv:2411.13540. [[Link](https://arxiv.org/abs/2411.13540)]  
 * **Zocco, F.** and Rahimifard, S., 2023. Visual material characteristics learning for circular healthcare. Submitted. arXiv preprint arXiv:2309.04763. [[Link](https://arxiv.org/abs/2309.04763)]
