@@ -8,7 +8,7 @@ layout: default
 
 # &emsp;Implementing Circularity with &emsp;&emsp;&emsp;Plants and Computers
 
-_Circular_ _Intelligence_ is the emerging scientific subject developed on this page. It emerges from the need of modern society to tackle three problems of global scale: the dependence on critical raw materials (explained [here](https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials_en)), climate change (explained [here](https://science.nasa.gov/climate-change/)), and pollution (explained [here](https://education.nationalgeographic.org/resource/great-pacific-garbage-patch/)).  
+_Circular_ _Intelligence_ is the emerging scientific field developed on this page. It emerges from the need of modern society to tackle three problems of global scale: the dependence on critical raw materials (explained [here](https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials_en)), climate change (explained [here](https://science.nasa.gov/climate-change/)), and pollution (explained [here](https://education.nationalgeographic.org/resource/great-pacific-garbage-patch/)).  
 
 _Circular_ _Intelligence_ results from a <ins>coherent</ins> intersection of the following 6 research topics: 
 
