@@ -8,9 +8,9 @@ layout: default
 
 # &emsp;Implementing Circularity with &emsp;&emsp;&emsp;Plants and Computers
 
-_Circular_ _Intelligence_ _and_ _Robotics_ are the emerging scientific fields developed on this page. They emerge from the need of modern society to tackle three problems of global scale: the dependence on critical raw materials (explained [here](https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials_en)), climate change (explained [here](https://science.nasa.gov/climate-change/)), and pollution (explained [here](https://education.nationalgeographic.org/resource/great-pacific-garbage-patch/)).  
+_Circular_ _Intelligence, Robotics, and Control_ are the emerging scientific fields developed on this page. They emerge from the need of modern society to tackle three problems of global scale: the dependence on critical raw materials (explained [here](https://single-market-economy.ec.europa.eu/sectors/raw-materials/areas-specific-interest/critical-raw-materials_en)), climate change (explained [here](https://science.nasa.gov/climate-change/)), and pollution (explained [here](https://education.nationalgeographic.org/resource/great-pacific-garbage-patch/)).  
 
-_Circular_ _Intelligence_ _and_ _Robotics_ result from a <ins>coherent</ins> intersection of the following 6 research topics: 
+_Circular_ _Intelligence, Robotics, and Control_ result from a <ins>coherent</ins> intersection of the following 6 research topics: 
 
 ![ForPersonalHomepage](https://github.com/user-attachments/assets/5a7fb77a-08fb-4076-bae2-b8b1e9a6aa76)
 
@@ -18,7 +18,7 @@ _Circular_ _Intelligence_ _and_ _Robotics_ result from a <ins>coherent</ins> int
 &nbsp;  
 
 ### RELEVANT MONOGRAPHS
-* **Zocco, F.**  _Circular_ _intelligence_ _and_ _robotics_: _Dynamical_ _and_ _learning_ _systems_ _for_ _a_ _circular_ _economy_. In preparation.
+* **Zocco, F.**  _Dynamical_ _and_ _learning_ _systems_ _for_ _a_ _circular_ _economy_. In preparation.
 
 ### RELEVANT PAPERS
 * **Zocco, F.**, Haddad, W.M., Corti, A. and Malvezzi, M., 2024. A unification between deep-learning vision, compartmental dynamical thermodynamics, and robotic manipulation for a circular economy. _IEEE Access_, vol. 12, pp. 173502-173516. [[Link](https://ieeexplore.ieee.org/document/10746487)] 
