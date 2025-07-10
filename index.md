@@ -12,8 +12,7 @@ _Circular_ _Intelligence, Robotics, and Control_ are the emerging scientific fie
 
 _Circular_ _Intelligence, Robotics, and Control_ result from a <ins>coherent</ins> intersection of the following 6 research topics: 
 
-<img width="459" height="200" alt="ForPersonalHomepage" src="https://github.com/user-attachments/assets/5bb01fa1-a1d0-43f5-ad73-29e9bcf2dc3b" />
-
+<img width="956" height="418" alt="ForPersonalHomepage" src="https://github.com/user-attachments/assets/93973c9e-dc55-4a1b-abe3-dafaf4f3cc45" />
 
 &nbsp;  
 
