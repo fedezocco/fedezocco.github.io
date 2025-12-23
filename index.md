@@ -16,8 +16,8 @@ _Circular_ _Intelligence, Robotics, and Control_ result from a <ins>coherent</in
 
 &nbsp;  
 
-### RELEVANT MONOGRAPHS
-* **Zocco, F.**  _Dynamical_ _and_ _learning_ _systems_ _for_ _a_ _circular_ _economy_. In preparation.
+### MAIN INVENTIONS
+* 2023: Thermodynamical material networks [[Paper](https://www.tandfonline.com/doi/full/10.1080/19397038.2023.2209582)]
 
 ### RELEVANT PAPERS
 * **Zocco, F.**, Haddad, W.M., Corti, A. and Malvezzi, M., 2024. A unification between deep-learning vision, compartmental dynamical thermodynamics, and robotic manipulation for a circular economy. _IEEE Access_, vol. 12, pp. 173502-173516. [[Link](https://ieeexplore.ieee.org/document/10746487)] 
