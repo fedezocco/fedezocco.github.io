@@ -17,7 +17,7 @@ _Circular_ _Intelligence, Robotics, and Control_ result from a <ins>coherent</in
 &nbsp;  
 
 ### MAIN INVENTIONS
-* 2025: CiRM [[Paper](https://www.dropbox.com/scl/fi/5ktbolldi7s3gkvwfmhxk/CiRM_InitialDesign.pdf?rlkey=jasag35yxqmzxwkgksnse8zat&st=ct9cafff&dl=0)]
+* 2025: CiRM [[Paper](https://github.com/ciroresearch/CiRM/blob/main/CiRM_InitialDesign.pdf)]
 * 2025: CarboNet [[Paper](https://www.arxiv.org/abs/2508.16774)] 
 * 2025: CiRL [[Paper](https://arxiv.org/abs/2505.21536)]
 * 2025: Material measurement units [[Paper](https://ieeexplore.ieee.org/document/11018129)] 
