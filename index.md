@@ -20,7 +20,7 @@ _Circular_ _Intelligence, Robotics, and Control_ result from a <ins>coherent</in
 * 2025: CiRM [[Paper](https://github.com/ciroresearch/CiRM/blob/main/CiRM_InitialDesign.pdf)]
 * 2025: CarboNet [[Paper](https://www.arxiv.org/abs/2508.16774)] 
 * 2025: CiRL [[Paper](https://arxiv.org/abs/2505.21536)]
-* 2025: Material measurement units [[Paper](https://ieeexplore.ieee.org/document/11018129)] 
+* 2025: Synchromaterials [[Paper](https://ieeexplore.ieee.org/document/11018129)] 
 * 2023: Thermodynamical material networks [[Paper](https://www.tandfonline.com/doi/full/10.1080/19397038.2023.2209582)]
 
 ### RELEVANT PAPERS
