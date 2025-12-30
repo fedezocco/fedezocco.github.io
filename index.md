@@ -17,7 +17,7 @@ _Circular_ _Intelligence, Robotics, and Control_ result from a <ins>coherent</in
 &nbsp;  
 
 ### INVENTIONS
-* 2025: CiRM [[Paper](https://github.com/ciroresearch/CiRM/blob/main/CiRM_InitialDesign.pdf)]
+* 2025: CiRM [[Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176704884.43305930/v1)]
 * 2025: CarboNet [[Paper](https://www.arxiv.org/abs/2508.16774)] 
 * 2025: CiRL [[Paper](https://arxiv.org/abs/2505.21536)]
 * 2025: Synchromaterials [[Paper](https://ieeexplore.ieee.org/document/11018129)] 
@@ -27,7 +27,7 @@ _Circular_ _Intelligence, Robotics, and Control_ result from a <ins>coherent</in
 * **Zocco, F.**, Haddad, W.M., Corti, A. and Malvezzi, M., 2024. A unification between deep-learning vision, compartmental dynamical thermodynamics, and robotic manipulation for a circular economy. _IEEE Access_, vol. 12, pp. 173502-173516. [[Link](https://ieeexplore.ieee.org/document/10746487)] 
 * **Zocco, F.**, Sopasakis, P., Smyth, B. and Haddad, W.M., 2023. Thermodynamical material networks for modeling, planning, and control of circular material flows. _International Journal of Sustainable Engineering_, 16(1), pp. 1-14. [[Link](https://www.tandfonline.com/doi/full/10.1080/19397038.2023.2209582)]
 * **Zocco, F.**, Corti, A. and Malvezzi, M., 2025. CiRL: Open-source environments for reinforcement learning in circular economy and net zero. SUBMITTED. _arXiv preprint arXiv:2505.21536_. [[Link](https://arxiv.org/abs/2505.21536)]
-* **Zocco, F.**, Dragusanu, M. and Malvezzi, M., 2025. A biofueled renewable minimally-critical biodegradable easy-to-disassemble robotic manipulator: Initial design. WORK IN PROGRESS. [[Link](https://github.com/ciroresearch/CiRM/blob/main/CiRM_InitialDesign.pdf)] 
+* **Zocco, F.**, Dragusanu, M. and Malvezzi, M., 2025. A biofueled renewable minimally-critical biodegradable easy-to-disassemble robotic manipulator: Initial design. WORK IN PROGRESS. [[Link](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176704884.43305930/v1)] 
 * **Zocco, F.**, Haddad, W.M. and Malvezzi, M., 2025. CarboNet: A finite-time combustion-tolerant compartmental network for tropospheric carbon control. SUBMITTED. _arXiv preprint arXiv:2508.16774_. [[Link](https://www.arxiv.org/abs/2508.16774)]  
 * **Zocco, F.**, Lake, D.R., McLoone, S. and Rahimifard, S., 2025. Synchronized object detection for autonomous sorting, mapping, and quantification of materials in circular healthcare. _IEEE Transactions on Instrumentation and Measurement_, vol. 74. [[Link](https://ieeexplore.ieee.org/document/11018129)]
 * **Zocco, F.**, Garcia, J. and Haddad, W.M., 2025. Circular microalgae-based carbon control for net zero. SUBMITTED. _arXiv preprint arXiv:2502.02382_. [[Link](https://www.arxiv.org/abs/2502.02382)] 
