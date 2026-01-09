@@ -17,11 +17,11 @@ _Circular_ _Intelligence, Robotics, and Control_ result from a <ins>coherent</in
 &nbsp;  
 
 ### INVENTIONS
-* 2025: CiRM [[Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176704884.43305930/v1)]
+* 2025: Circular robotic arm (CiRA) [[Paper](https://www.techrxiv.org/doi/full/10.36227/techrxiv.176704884.43305930/v1)]
 * 2025: CarboNet [[Paper](https://www.arxiv.org/abs/2508.16774)] 
-* 2025: CiRL [[Paper](https://arxiv.org/abs/2505.21536)]
+* 2025: Circular reinforcement learning (CiRL) [[Paper](https://arxiv.org/abs/2505.21536)]
 * 2025: Synchromaterials [[Paper](https://ieeexplore.ieee.org/document/11018129)] 
-* 2023: Thermodynamical material networks [[Paper](https://www.tandfonline.com/doi/full/10.1080/19397038.2023.2209582)]
+* 2023: Thermodynamical material networks (TMNs) [[Paper](https://www.tandfonline.com/doi/full/10.1080/19397038.2023.2209582)]
 
 ### PAPERS
 * **Zocco, F.**, Haddad, W.M., Corti, A. and Malvezzi, M., 2024. A unification between deep-learning vision, compartmental dynamical thermodynamics, and robotic manipulation for a circular economy. _IEEE Access_, vol. 12, pp. 173502-173516. [[Link](https://ieeexplore.ieee.org/document/10746487)] 
