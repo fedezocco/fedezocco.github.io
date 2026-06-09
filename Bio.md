@@ -4,8 +4,6 @@ layout: default
 
 ---
 
-The full CV can be downloaded here: [CV](link) 
-
 # Education
 * Jan 2017-Dec 2021: PhD in Applied Machine Learning, Queen's University Belfast, Northern Ireland, UK 
 * Oct 2013-Nov 2016: MSc in Robotics and Automation Engineering, University of Pisa, Italy (grade: 110/110)
@@ -14,7 +12,7 @@ The full CV can be downloaded here: [CV](link)
   (Born in Rome, Italy, 1990)
 
 # Research Experience
-* Feb 2025&ndash;**present**: Postdoctoral researcher, Department of Information Engineering and Mathematics, University of Siena, Italy
+* Feb 2025&ndash;**Present**: Postdoctoral researcher, Department of Information Engineering and Mathematics, University of Siena, Italy
 * May 2024&ndash;Feb 2025: Postdoctoral researcher based in Loughborough, England, UK 
 * Apr and Jul 2024: Postdoctoral researcher, Department of Information Engineering and Mathematics, University of Siena, Italy 
 * Dec 2022&ndash;May 2024: Postdoctoral researcher of the [ReMed](https://www.remed.uk/team) project, Centre for Sustainable Manufacturing and Recycling Technologies, Loughborough University, England, UK 
@@ -26,6 +24,8 @@ The full CV can be downloaded here: [CV](link)
 * Nov 2017: Volunteer teacher, "The Potter's Village" orphanage, Accra, Ghana 
 * 2011&ndash;2016: Occasional ski instructor 
 * 2009: Diploma of ski instructor, Pistoia, Italy 
-* 2004&ndash;2008: Alpine ski athlete ([results](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=121216&type=result))  
+* 2004&ndash;2008: Alpine ski athlete ([results](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=121216&type=result))
+
+**Full CV available [here](link)** 
 
 [back](./)
