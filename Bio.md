@@ -4,6 +4,8 @@ layout: default
 
 ---
 
+The full CV can be downloaded here: [CV](link) 
+
 # Education
 * Jan 2017-Dec 2021: PhD in Applied Machine Learning, Queen's University Belfast, Northern Ireland, UK 
 * Oct 2013-Nov 2016: MSc in Robotics and Automation Engineering, University of Pisa, Italy (grade: 110/110)
