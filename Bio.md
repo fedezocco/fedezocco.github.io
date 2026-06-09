@@ -26,6 +26,6 @@ layout: default
 * 2009: Diploma of ski instructor, Pistoia, Italy 
 * 2004&ndash;2008: Alpine ski athlete ([results](https://www.fis-ski.com/DB/general/athlete-biography.html?sectorcode=AL&competitorid=121216&type=result))
 
-**Full CV available [here](link).** 
+**Full CV available [here](CV-PublicForGitHub-Jun2026.pdf).** 
 
 [back](./)
