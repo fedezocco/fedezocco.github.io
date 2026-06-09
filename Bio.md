@@ -15,7 +15,7 @@ layout: default
 * Feb 2025&ndash;**present**: Postdoctoral researcher, Department of Information Engineering and Mathematics, University of Siena, Italy
 * May 2024&ndash;Feb 2025: Postdoctoral researcher based in Loughborough, England, UK 
 * Apr and Jul 2024: Postdoctoral researcher, Department of Information Engineering and Mathematics, University of Siena, Italy 
-* Dec 2022&ndash;May 2024: Postdoctoral researcher hired for the [ReMed](https://www.remed.uk/team) project, Centre for Sustainable Manufacturing and Recycling Technologies, Loughborough University, England, UK 
+* Dec 2022&ndash;May 2024: Postdoctoral researcher of the [ReMed](https://www.remed.uk/team) project, Centre for Sustainable Manufacturing and Recycling Technologies, Loughborough University, England, UK 
 * Dec 2021&ndash;Dec 2022: Postdoctoral researcher, Queen's University Belfast, Northern Ireland, UK 
 * Mar 2016&ndash;Oct 2016: Research student, Research Cluster for Energy, Power and Intelligent Control, Queen's University Belfast, Northern Ireland, UK 
 * Mar 2013&ndash;Sep 2013: Research student, “E. Piaggio” Research Center, University of Pisa, Italy 
